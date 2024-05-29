@@ -10,45 +10,4 @@
     "Requested Qty": 2,
     "Total Order Qty": 2,
     "Select": true,
-    "ASAP PANAMA SHIP SUPPLIER": {
-      "Ord.Qty": "",
-      "Qty": 2,
-      "Unit price": 418.725,
-      "Price": 837.45,
-      "Remarks": "OFFERED BATTERY 12V 150AH L508MM W221MM H235MM"
-    },
-    "MISHAL SA": {
-      "Ord.Qty": "",
-      "Qty": 2,
-      "Unit price": 374,
-      "Price": 748,
-      "Remarks": ""
-    }
-  },
-  {
-    "Item No": "9000217",
-    "RFQ Line No": 20000,
-    "Description": "Emergency Generator Governor/Aux Batteries ",
-    "Cost Center": "DEF",
-    "Account": "5150-185",
-    "Maker Ref": "AN HUI LI SHI BATTERIES,DJW12-24S, 2 X 12V, 24AH",
-    "ROB": 0,
-    "UOM": "PIECES",
-    "Requested Qty": 2,
-    "Total Order Qty": 2,
-    "Select": true,
-    "ASAP PANAMA SHIP SUPPLIER": {
-      "Ord.Qty": "",
-      "Qty": 2,
-      "Unit price": 166.455,
-      "Price": 332.91,
-      "Remarks": "OFFERED BATTERY 12V 24AH L165MM W175MM H127MM"
-    },
-    "MISHAL SA": {
-      "Ord.Qty": "",
-      "Qty": 2,
-      "Unit price": 136,
-      "Price": 272,
-      "Remarks": ""
-    }
-  }
+     }
