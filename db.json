@@ -1,11 +1,31 @@
-{"Item No": "9000216",
-    "RFQ Line No": 10000,
-    "Description": "Emergency Generator Starting Batteries ",
-    "Cost Center": "DEF",
-    "Account": "5150-185",
-    "Maker Ref": "TYPE: 6-CQW-150VRLA.(2 X 12V, 150AH)",
-    "ROB": 0,
-    "UOM": "PIECES",
-    "Requested Qty": 2,
-    "Total Order Qty": 2,
-    "Select": true,}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
