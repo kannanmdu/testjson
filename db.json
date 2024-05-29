@@ -1,5 +1,4 @@
-{
-    "Item No": "9000216",
+{"Item No": "9000216",
     "RFQ Line No": 10000,
     "Description": "Emergency Generator Starting Batteries ",
     "Cost Center": "DEF",
@@ -9,5 +8,4 @@
     "UOM": "PIECES",
     "Requested Qty": 2,
     "Total Order Qty": 2,
-    "Select": true,
-     }
+    "Select": true,}
